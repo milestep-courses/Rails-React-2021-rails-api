@@ -1,0 +1,12 @@
+- users
+  - email
+  - nickname
+  - role
+- posts
+  - image
+  - descriptions
+  - user_id
+- comments
+  - message
+  - user_id
+  - post_id
